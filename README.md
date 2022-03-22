@@ -2,7 +2,7 @@
 
 
 👀 I’m interested in cybersecurity, IA, game, web developpment.
-I love to travel and have visited Belgium, Italy, Portugal, 
+I love to travel and have visited Belgium, Italy, Portugal, Spain
 
 
 🌱 I’m currently learning web developpment with l'ENI Ecole Informatique, and I'm working in Paris
