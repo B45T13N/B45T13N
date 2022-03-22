@@ -5,7 +5,8 @@
 I love to travel and have visited Belgium, Italy, Portugal, Spain
 
 
-🌱 I’m currently learning web developpment with l'ENI Ecole Informatique, and I'm working in Paris
+🌱 I’m currently learning web developpment with l'ENI Ecole Informatique, and I'm working in Paris.
+I like to work with Php and Javascript because I prefer the back end although I don't mind working on the front end
 
 
 💞️ I’m looking to collaborate on any project, web or not. I try to learn every time and I'm curious to work with anyone
