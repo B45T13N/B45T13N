@@ -15,5 +15,4 @@ In add I practice on RootMe because I want to discover and learn about the cyber
 💞️ I’m looking to collaborate on any project, web or not. I try to learn every free time and I'm curious to work with anyone
 
 📫 There's my linkedin : https://www.linkedin.com/in/bastien-da-silva-412764213/
-    And you can contact me by e-mail : bastds.dev@gmail.com 
 
