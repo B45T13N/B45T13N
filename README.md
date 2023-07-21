@@ -2,11 +2,11 @@
 
 
 👀 I’m interested in cybersecurity, IA, game, web developpment.
-I love to travel and have visited Belgium, Italy, Portugal, Spain, Netherlands, Indonesia(Bali)
+I love to travel and have visited Belgium, Italy, Portugal, Spain, Netherlands, Indonesia(Bali), Egypt
 
 
 🌱 I can work in Paris or full remote.
-I worked with C#, Php Laravel, and VueJS. Aswell I maintaied website on NodeJS during my work (info-retraite.com and subdomains).
+I worked with C#, Php Laravel, and VueJS. Aswell I maintained website on NodeJS during my work (info-retraite.com and subdomains).
 I like to work with Python or Javascript because I prefer the back end although I don't mind working on the front end.
 I'm curious to learn the front end and differents animations so I check Codrops website to learn good ones.
 I like to solve diffrents problems or learn differents languages on FreeCodeCamp, HackerRank or Codingame.
