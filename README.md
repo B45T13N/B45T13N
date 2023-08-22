@@ -15,7 +15,7 @@ I worked with C#, Php Laravel, and VueJS. Aswell I maintained website on NodeJS 
 I like to work with Python or Javascript because I prefer the back end although I don't mind working on the front end.
 I'm curious to learn the front end and differents animations so I check Codrops website to learn good ones.
 I like to solve diffrents problems or learn differents languages on FreeCodeCamp, HackerRank or Codingame.
-In add I practice on RootMe, TryHackMe, HackTheBox because I want to discover and learn about the cybersecurity.
+In add I practice on RootMe, TryHackMe, HackTheBox to discover and learn about the cybersecurity.
 
 
 
