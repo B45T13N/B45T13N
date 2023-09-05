@@ -21,6 +21,5 @@ In add I practice on RootMe, TryHackMe, HackTheBox to discover and learn about t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B45T13N&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=B45T13N&theme=dark)](https://git.io/streak-stats)
-![B45T13N's GitHub stats](https://github-readme-stats.vercel.app/api?username=B45T13N&hide&theme=dark=contribs,prs)
 
 <img src="https://komarev.com/ghpvc/?username=B45T13N&style=flat-square&color=blue" alt=""/>
