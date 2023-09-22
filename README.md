@@ -16,8 +16,3 @@ I like to work with Python or Javascript because I prefer the back end although 
 I'm curious to learn the front end and differents animations so I check Codrops website to learn good ones.
 I like to solve diffrents problems or learn differents languages on FreeCodeCamp, HackerRank or Codingame.
 In add I practice on RootMe, TryHackMe, HackTheBox to discover and learn about the cybersecurity.
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=B45T13N&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=B45T13N&style=flat-square&color=blue" alt=""/>
