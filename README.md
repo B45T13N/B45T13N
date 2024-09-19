@@ -1,5 +1,11 @@
 <h1>👋 Hi, I’m Bastien</h1>
 
+![](https://raw.githubusercontent.com/B45T13N/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/B45T13N/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/B45T13N/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/B45T13N/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/bastien-da-silva-412764213">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
